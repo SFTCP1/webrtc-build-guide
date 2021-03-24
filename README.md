@@ -44,4 +44,4 @@ If you want to disable unit-tests, just type only webrtc target
 ```
 ninja -C out/Default webrtc
 ```
-This should build the WebrRTC library.
+This should build the WebRTC library.
