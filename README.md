@@ -1,7 +1,8 @@
+Notice: We have launched [SwordFishTheChordedPlayer1 WebRTC](https://github.com/SFTCP1/webrtc) to get a WebRTC Static Binary from here
+We will remove the original release soon.
+
 # WebRTC
 WebRTC - a library that enables users to add a real time communication capabilities into their C++ or JavaScript applications.
-
-To download a WebRTC Binary, just go to the realases page and download the zip file given here.
 
 To build WebRTC From Source, you might need some components to build the library:
 Build Requirements:
