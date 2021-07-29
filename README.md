@@ -1,5 +1,5 @@
 Notice: We have launched [SwordFishTheChordedPlayer1 WebRTC](https://github.com/SFTCP1/webrtc) to get a WebRTC Static Binary from here.
-Download a WebRTC Binary from [Releases page](https://github.com/SFTCP1/webrtc/Releases) on the SwordFishTheChordedPlayer1 WebRTC repository to get it.
+Download a WebRTC Binary from [Releases page](https://github.com/SFTCP1/webrtc/releases) on the SwordFishTheChordedPlayer1 WebRTC repository to get it.
 
 # WebRTC
 WebRTC - a library that enables users to add a real time communication capabilities into their C++ or JavaScript applications.
